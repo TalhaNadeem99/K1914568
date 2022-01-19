@@ -1,0 +1,19 @@
+{
+  "name": "k1914568",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalhaNadeem99/K1914568.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TalhaNadeem99/K1914568/issues"
+  },
+  "homepage": "https://github.com/TalhaNadeem99/K1914568#readme"
+}
